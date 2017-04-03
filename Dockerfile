@@ -1,4 +1,4 @@
-FROM node:6.9-slim
+FROM node:6.10.1-slim
 
 ARG bowerVersion=1.8.0
 
